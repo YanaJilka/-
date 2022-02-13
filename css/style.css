@@ -1,0 +1,176 @@
+img{
+    width: 200px;
+    height: 300px;
+    display: block;
+}
+div{
+    border: 2px solid;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    transition: all 0.5s;
+}
+body{
+    text-align: center;
+    background-color: rgb(37, 33, 33);
+    color: rgb(245, 203, 197);
+}
+.first{
+    box-shadow: -10px 5px 15px rgb(245, 203, 197);
+}
+.first img{
+    box-shadow: -10px -10px 15px rgb(245, 203, 197);
+}
+.first a {
+    color: rgb(245, 203, 197);
+}
+.second{
+    color: chocolate;
+    box-shadow: -5px 10px 15px chocolate;
+}
+.second img{
+    box-shadow: -5px -10px 15px;
+}
+.second a{
+     color: chocolate;
+}
+.third{
+    color: rgb(200, 202, 83);
+    box-shadow: 0px 10px 15px rgb(200, 202, 83);
+}
+.third img{
+    box-shadow: 0px -10px 15px rgb(200, 202, 83);
+}
+.third a{
+    color: rgb(200, 202, 83);
+}
+.forth{
+    color: firebrick;
+    box-shadow: 5px 10px 15px firebrick;
+}
+.forth img{
+box-shadow: 5px -10px 15px firebrick;
+}
+.forth a{
+    color: firebrick;
+}
+.fivth{
+    color: lightseagreen;
+    box-shadow: 10px 10px 15px lightseagreen;
+}
+.fivth img{
+    box-shadow: 10px -5px 15px lightseagreen;
+}
+.fivth a{
+    color: lightseagreen;
+}
+a{
+font-weight: bold;
+}
+.sixth{
+    color: rgb(123, 162, 235);
+    box-shadow: -15px -5px 15px rgb(123, 162, 235);
+}
+.sixth img{
+    box-shadow: -15px -5px 15px rgb(123, 162, 235) ;
+}
+.sixth a{
+    color: rgb(123, 162, 235);
+}
+.seventh{
+    color: springgreen;
+    box-shadow: -5px -5px 15px springgreen;
+}
+.seventh img{
+    box-shadow: -5px -3px 15px;
+}
+.seventh a{
+    color: springgreen;
+}
+.eigth{
+    color: rgb(236, 111, 111);
+    box-shadow: 0px -10px 15px rgb(236, 111, 111);
+}
+.eigth img{
+box-shadow: 0px -10px 15px rgb(236, 111, 111);
+}
+.eigth a{
+    color: rgb(236, 111, 111);
+}
+.ninth{
+    color: rgb(165, 163, 163);
+    box-shadow: 5px -10px 15px;
+}
+.ninth img{
+    box-shadow: 5px -10px 15px;
+}
+.ninth a{
+    color: rgb(165, 163, 163);
+}
+.tenth{
+    color: rgb(230, 230, 22);
+    box-shadow: 10px -10px 15px ;
+}
+.tenth img{
+    box-shadow: yellow 10px -10px  15px;
+}
+.tenth a{
+    color: yellow;
+}.eleventh{
+    color: rgb(236, 65, 236);
+    box-shadow: -10px -5px 15px;
+}
+.eleventh img{
+    box-shadow: -5px -5px 15px;
+}
+.eleventh a{
+    color: rgb(236, 65, 236);
+}
+.twelfth{
+    color: rgb(130, 153, 223);
+    box-shadow: -10px -10px 15px;
+}
+.twelfth img{
+    color: rgb(130, 153, 223);
+    box-shadow: -10px -10px 15px;
+}
+.twelfth a{
+    color: rgb(130, 153, 223);
+}
+.thirteen{
+    color: rgb(212, 227, 255);
+    box-shadow: 0px -10px 15px;
+}
+.thirteen img{
+    color: rgb(212, 227, 255);
+    box-shadow: 0px -10px 15px;
+}
+.thirteen a{
+    color: rgb(212, 227, 255);
+}
+.forteen{
+    color: rgb(228, 187, 133);
+    box-shadow: 10px -10px 15px;
+}
+.forteen img {
+    color: rgb(228, 187, 133);
+    box-shadow: 5px -5px 15px;
+}
+.forteen a{
+    color: rgb(228, 187, 133);
+}
+.fifteen{
+    color: rgb(35, 153, 221);
+    box-shadow: 10px -10px 15px;
+}
+.fifteen img{
+    color: rgb(35, 153, 221);
+    box-shadow: 5px -5px 15px;
+}
+.fifteen a{
+    color: rgb(35, 153, 221);
+}
+div:hover{
+    transform: scale(1.05);
+}
+
